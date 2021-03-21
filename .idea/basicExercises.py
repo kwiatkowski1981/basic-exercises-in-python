@@ -26,4 +26,7 @@ print(int(m))
 
 print(sqrt(121)) # import  z biblioteki ==>>>  from math import sqrt
 
+print(27 ** (1/3)) # inna forma zapisu wyciągania pierwiastków BEZ importowania z biblioteki funkcji SQRT
+print(9 ** (1/2))   # tak samo jak wyej tylko przyklad do potegi drugiej a nie trzeciej
+
 
